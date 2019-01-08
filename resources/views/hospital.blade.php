@@ -9,10 +9,10 @@
     <title>Nhames Hospital</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/4.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="cover.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/4.2/examples/cover/cover.css" rel="stylesheet">
   </head>
 
   <body class="text-center">
